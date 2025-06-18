@@ -1,0 +1,39 @@
+h2{color: darkgoldenrod;}
+h1{color: gold;}
+body{background-color: seagreen;}
+h3{color: darkgoldenro
+    
+
+}
+    
+    
+    
+
+h1{
+    color: rgb(100, 11, 184);
+
+}
+h1:hover{
+    color: rgb(187, 100, 237);
+    scale: (2);
+}
+button{
+    background-color: rgb(165, 42, 155);
+    color: rgb(248, 200, 10);
+    transition-property: background-color,color;
+    transition-duration: 9.0s;
+}
+
+
+button:hover{
+    background-color: rgb(0, 5, 1);
+    color: rgb(9, 86, 253);
+}
+
+
+
+
+
+
+
+
